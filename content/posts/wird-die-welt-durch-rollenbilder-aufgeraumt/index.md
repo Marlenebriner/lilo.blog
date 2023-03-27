@@ -3,20 +3,8 @@ title = " Wird die Welt durch Rollenbilder aufgeräumt? "
 date = "2023-03-27"
 draft = false
 pinned = false
-description = "\n\n\n\n\n\n\n"
+description = "\n<!--StartFragment-->\n\n{{<lead>}}\n\n<!--EndFragment-->Rollenbilder sind gesellschaftlich konstruierte Vorstellungen darüber, wie Menschen in verschiedenen sozialen Gruppen sich verhalten sollten. Diese Vorstellungen basieren auf Geschlecht, Alter, Herkunft, Beruf, Religion und anderen Merkmalen. Sie beeinflussen unsere Erwartungen an das Verhalten von Personen und können unser Denken und Handeln stark prägen.<!--StartFragment-->\n\n`{{</lead>}}`\n\n\n\n<!--EndFragment-->\n\n\n\n\n\n"
 +++
-<!--StartFragment-->
-
-{{<lead>}}
-
-<!--EndFragment-->Rollenbilder sind gesellschaftlich konstruierte Vorstellungen darüber, wie Menschen in verschiedenen sozialen Gruppen sich verhalten sollten. Diese Vorstellungen basieren auf Geschlecht, Alter, Herkunft, Beruf, Religion und anderen Merkmalen. Sie beeinflussen unsere Erwartungen an das Verhalten von Personen und können unser Denken und Handeln stark prägen.<!--StartFragment-->
-
-`{{</lead>}}`
-
-
-
-<!--EndFragment-->
-
 
 
 **Wie identifizierst du dich? Welche Pronomen verwendest du?**
