@@ -3,8 +3,18 @@ title = " Wird die Welt durch Rollenbilder aufgeräumt? "
 date = "2023-03-27"
 draft = false
 pinned = false
-description = "<!--StartFragment-->\n\n{{<lead>}}\n\n<!--EndFragment-->Rollenbilder sind gesellschaftlich konstruierte Vorstellungen darüber, wie Menschen in verschiedenen sozialen Gruppen sich verhalten sollten. Diese Vorstellungen basieren auf Geschlecht, Alter, Herkunft, Beruf, Religion und anderen Merkmalen. Sie beeinflussen unsere Erwartungen an das Verhalten von Personen und können unser Denken und Handeln stark prägen.<!--StartFragment-->\n\n`{{</lead>}}`\n\n\n\n<!--EndFragment-->\n*\\- Interview von Marlene Briner*"
+description = "Rollenbilder sind gesellschaftlich konstruierte Vorstellungen darüber, wie Menschen in verschiedenen sozialen Gruppen sich verhalten sollten. Diese Vorstellungen basieren auf Geschlecht, Alter, Herkunft, Beruf, Religion und anderen Merkmalen. Sie beeinflussen unsere Erwartungen an das Verhalten von Personen und können unser Denken und Handeln stark prägen.\n- Interview von Marlene Briner"
 +++
+
+
+#### Rollenbilder sind gesellschaftlich konstruierte Vorstellungen darüber, wie Menschen in verschiedenen sozialen Gruppen sich verhalten sollten. Diese Vorstellungen basieren auf Geschlecht, Alter, Herkunft, Beruf, Religion und anderen Merkmalen. Sie beeinflussen unsere Erwartungen an das Verhalten von Personen und können unser Denken und Handeln stark prägen.
+
+*\- Interview von Marlene Briner*
+
+
+
+
+
 **Wie identifizierst du dich? Welche Pronomen verwendest du?**
 
 Ich verwende das Pronomen «sie».
