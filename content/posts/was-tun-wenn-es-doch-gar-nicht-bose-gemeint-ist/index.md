@@ -1,7 +1,7 @@
 +++
 title = "Was tun, wenn es doch gar nicht böse gemeint ist? "
 date = "2023-04-07"
-draft = false
+draft = true
 pinned = false
 description = "Rollenbilder begleiten uns unser ganzes Leben. Sie beeinflussen unser Denken und Handeln und prägen uns seit unserer Geburt. Doch wie sieht es eigentlich aus, wenn wir uns bewusst mit ihnen auseinandersetzen?"
 +++
