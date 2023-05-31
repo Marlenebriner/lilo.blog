@@ -4,6 +4,7 @@ date = "2023-04-07"
 draft = false
 pinned = false
 tags = ["Reportage", "Rollenbilder", "Ungleichheit"]
+image = "microsoftteams-image-6-.png"
 description = "Rollenbilder begleiten uns unser ganzes Leben. Sie beeinflussen unser Denken und Handeln und prägen uns seit unserer Geburt. Doch wie sieht es eigentlich aus, wenn wir uns bewusst mit ihnen auseinandersetzen?"
 +++
 **Rollenbilder begleiten uns ein ganzes Leben. Sie beeinflussen unser Denken und Handeln und prägen uns seit unserer Geburt. Doch wie sieht es eigentlich aus, wenn wir uns bewusst mit ihnen auseinandersetzen? Elena, eine junge engagierte Feministin, hatte viel über ihre eigenen Erfahrungen zu berichten.**
