@@ -3,7 +3,8 @@ title = "Angst"
 date = "2023-05-31"
 draft = false
 pinned = false
-tags = ["poetryslam", "angst"]
+tags = ["Poetryslam", "Angst"]
+image = "microsoftteams-image-4-.png"
 +++
 Nei, das möcht ig nid.
 
