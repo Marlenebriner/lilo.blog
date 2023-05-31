@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Marlene Briner"
-image = ""
-url = "Reportage"
+image = "/media/microsoftteams-image-3-.png"
+url = ""
 +++
