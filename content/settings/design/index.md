@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/microsoftteams-image-3-.png"
+logo = "/media/microsoftteams-image-3-.png"
+image = "/media/microsoftteams-image-3-.png"
 color = "#5d9fbd"
 +++
