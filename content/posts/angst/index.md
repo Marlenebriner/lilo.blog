@@ -16,6 +16,8 @@ Nei wobi Einsamkeit isch ou nid das woni bruche. Was bruch ig de?
 
 
 
+
+
 Ferie. 
 
 Ig möcht mau chönne usruhie. Aber wohere? Und wenn? 
@@ -23,6 +25,8 @@ Ig möcht mau chönne usruhie. Aber wohere? Und wenn?
 Wöu eigentlich möcht ig i mim Bett blibe. 
 
 Ferie si zu stress. 
+
+
 
 
 
@@ -48,6 +52,8 @@ Was wenn ig ner plötzlich us mim gschenkte Körper möcht usbräche wenn ig mi 
 
 
 
+
+
 SEUBSTLIEBI, extra gross gschribe. 
 
 Bin ig zgross, bin ig zchli?
@@ -68,11 +74,15 @@ Und direkt ine Schablone drückt, wo mis Lebe und mi bestimmt und unterdrückt.
 
 
 
+
+
 Mein Gott, wi fiu Gedanke das si.
 
 Wo söue die nur hin?
 
 Die Frage schrenke mis Lebe ein, in der Liebe, in der Schule und daheim. 
+
+
 
 
 
