@@ -3,6 +3,7 @@ title = " Wird die Welt durch Rollenbilder aufgeräumt? "
 date = "2023-03-27"
 draft = false
 pinned = false
+tags = ["Interview", "Rollenbilder", "Ungleichheit"]
 description = "Rollenbilder sind gesellschaftlich konstruierte Vorstellungen darüber, wie Menschen in verschiedenen sozialen Gruppen sich verhalten sollten. Diese Vorstellungen basieren auf Geschlecht, Alter, Herkunft, Beruf, Religion und anderen Merkmalen. Sie beeinflussen unsere Erwartungen an das Verhalten von Personen und können unser Denken und Handeln stark prägen.\n- Interview von Marlene Briner"
 +++
 
